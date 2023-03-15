@@ -1,0 +1,18 @@
+.card {
+    border-radius: 10px;
+    background-color: springgreen;
+    width: 200px;
+    text-align: center;
+    height: auto;
+}
+
+img{
+    max-width: 245px;
+    padding-top: 1px;
+}
+
+@media (max-width: 1000px){
+    img {
+        max-width: 140px;
+    }
+}
