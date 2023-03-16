@@ -2,6 +2,4 @@
 
 For study purposes
 
-Using
-ReactJS
-MaterialUI
+Using ReactJS and MaterialUI
